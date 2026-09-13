@@ -1,1 +1,6 @@
-< maven project file placeholder -->
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>learning-git-demo</artifactId>
+  <version>1.0</version>
+</project>
